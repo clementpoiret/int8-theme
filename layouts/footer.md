@@ -1,2 +1,1 @@
-This is footer.
-You can edit this in ../nostyleplease/layouts/footer.md
+NB: this website is nearly only for my own entertainment.
