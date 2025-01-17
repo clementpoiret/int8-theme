@@ -1,18 +1,4 @@
 [[entries]]
-title = "About `int8` blog"
-
-  [[entries.entries]]
-  title = "Tech, ML, and Philosophy Musings"
-
-  [[entries.entries]]
-  title = "twitter"
-  url = "https://x.com/clement_poiret1/"
-
-  [[entries.entries]]
-  title = "github"
-  url = "https://github.com/clementpoiret/"
-
-[[entries]]
 title = "All posts"
 
   [entries.post_list]

@@ -31,6 +31,8 @@
     ordered    = false
 
 [params]
+  enableRobotsTXT = true
+
   [params.theme_config]
     appearance        = "auto"
     back_home_text    = ".."
