@@ -1,5 +1,5 @@
 ---
-title: int8 blog
+title: Welcome!
 date: 2025-01-17T18:08:19+01:00
 # date: date '+%Y-%m-%dT%H:%M:%S%:z'
 draft: false

@@ -3,6 +3,12 @@
 <article>
     <h1>{{ .Title }}</h1>
 
+    <p class="article-meta">
+        <span class="author">By <i>{{ .Params.Author }}</i></span>
+        <span class="separator">·</span>
+        <span class="read-time">{{ .ReadingTime }} min read</span>
+    </p>
+
     {{ if .Params.toc }}
         <aside {{ if .Params.tocBorder }} class="toc" {{ end }}>
             {{ .TableOfContents }}
