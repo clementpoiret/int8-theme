@@ -1,8 +1,10 @@
 ---
-title: ''
+title: int8 blog
 date: 2025-01-17T18:08:19+01:00
 # date: date '+%Y-%m-%dT%H:%M:%S%:z'
 draft: false
+description: Initializing byte-sized wisdom at int8.tech — where we overflow with tech insights without using a single float.
+keywords: [linux, tech, ai, machine learning, philosophy, computer science]
 ---
 
 Initializing byte-sized wisdom at `int8.tech` — where we overflow with tech insights without using a single float.
