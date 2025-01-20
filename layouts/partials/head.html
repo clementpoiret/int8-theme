@@ -8,13 +8,8 @@
   <meta name="twitter:description" content="{{ .Description }}" />
   <meta name="keywords" content="{{ delimit .Keywords ", " }}" />
 
-  {{ if eq (getenv "HUGO_ENV") "production" }}
-    <meta name="robots" content="index,follow"/>
-    <meta name="googlebot" content="index,follow"/>
-  {{ else }}
-    <meta name="robots" content="noindex,nofollow"/>
-    <meta name="googlebot" content="noindex,nofollow"/>
-  {{ end }}
+  <meta name="robots" content="index,follow"/>
+  <meta name="googlebot" content="index,follow"/>
 
   <title itemprop="name">
     {{ .Title }} | {{ .Site.Title }}
